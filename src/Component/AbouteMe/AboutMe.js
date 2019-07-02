@@ -19,7 +19,7 @@ class About extends Component {
               <div className="aboutText">
               <h1> Hola ! </h1>
               <p>  Soy una persona en extremo curiosa, me encanta mantenerme en constante aprendizaje y CREAR cosas !</p>
-              <p> Estoy enamorada de la programación porque no hay limites, siempre hay algo nuevo que aprender y nuevos desafios que afrontar. </p>
+              <p> Estoy enamorada de la programación porque no hay límites, siempre hay algo nuevo que aprender y nuevos desafíos que afrontar. </p>
               </div>
 
           </div>
