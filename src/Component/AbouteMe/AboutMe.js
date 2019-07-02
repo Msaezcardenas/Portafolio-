@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-
 import './AboutMe.css'
 
 
@@ -14,7 +13,7 @@ class About extends Component {
           <div className="aboutItems">
 
               <div className="aboutImg">
-              <img src="https://raw.githubusercontent.com/Msaezcardenas/Portafolio-/master/src/imagenes/monica.png"  className="moluFoto"></img>
+              <img src="https://github.com/Msaezcardenas/Portafolio-/blob/master/src/Imagenes/monica.png?raw=true"  className="moluFoto"></img>
               </div>
 
               <div className="aboutText">
