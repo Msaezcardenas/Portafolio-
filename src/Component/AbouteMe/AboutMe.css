@@ -54,6 +54,17 @@ h1{
 
 @media screen and (max-width:720px){  
 
+    .aboutImg {
+        width: 100%;
+        /* padding: 15px; */
+    
+    }
+    
+    .aboutText {
+        width: 100%;
+        /* padding: 0; */
+    }
+
     .aboutItems{
         padding: 20px;
     }

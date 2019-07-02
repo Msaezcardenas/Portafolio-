@@ -26,8 +26,12 @@
 
     .All a {
 
-        padding: 30px;
+        padding: 20px;
         font-size: 40px;
     
+    }
+
+    .All{
+        padding: 100px;
     }
 }
