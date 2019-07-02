@@ -1,0 +1,40 @@
+.navbarStyle {
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    top:0;
+    width: 100%;
+    background-color: grey rgba(0, 0, 0, 0.4);
+    z-index: 1;
+    font-weight: 700;
+    
+}
+
+
+
+
+li a {
+    color: white;
+    text-decoration: none;
+    padding: 80px;
+}
+
+
+@media screen and (max-width:720px){  
+    
+    .nav {
+        font-size: 10px;
+    }
+
+    li a {
+        padding: 5px;
+    }
+}
+
+@media screen and (min-width:720px) and (max-width: 1024px){
+    li a {
+        padding: 30px;
+    }
+
+}

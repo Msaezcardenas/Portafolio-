@@ -1,0 +1,47 @@
+.homeStyle {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color:#F4D03F;
+    background-color: rgba(0, 0, 0, 0.70);
+    align-content: center;
+
+
+}
+
+
+h1 {
+    font-weight:900;
+    font-size: 4rem;
+    letter-spacing: 10px;
+    word-spacing: 25px;
+    padding: 5rem;
+}
+
+@media screen and (max-width:720px){  
+
+    .homeStyle {
+        padding: 1rem;
+
+    }
+
+    .homeStyle h1{  
+        font-weight: 600;
+        font-size: 2rem;
+        align-self: center;
+        padding: 0;
+
+    }
+
+    .homeStyle h2{  
+        font-weight: 500;
+        font-size: 1rem;
+        align-self: center;
+        padding: 0;
+
+    }
+
+}
