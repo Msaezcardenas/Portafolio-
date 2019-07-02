@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a6b9fedc.chunk.css",
+    "main.js": "/static/js/main.799ec324.chunk.js",
+    "main.js.map": "/static/js/main.799ec324.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dba9afe1ddc33e5e592aa4d981186ead.js": "/precache-manifest.dba9afe1ddc33e5e592aa4d981186ead.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a6b9fedc.chunk.css.map": "/static/css/main.a6b9fedc.chunk.css.map",
+    "static/media/App.css": "/static/media/bici.2c74a56e.jpg"
+  }
+}
